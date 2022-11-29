@@ -4,7 +4,7 @@ public class Main {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		
+
 		StackArrayImpl impl = new StackArrayImpl(10);
 		impl.pop();
 		System.out.println("--------------");
